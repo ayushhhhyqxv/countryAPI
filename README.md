@@ -6,5 +6,5 @@
 
 ~~![landing-page](components/image-2.png)
 ![dark-theme](components/dark.png)
-![main-data](components/image-1.png)~~
+![main-data](components/sidebar.png)~~
 
